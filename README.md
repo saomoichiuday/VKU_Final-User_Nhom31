@@ -8,7 +8,8 @@ Flutter SDK: Cài đặt Flutter từ trang chính thức: Flutter SDK.
 Firebase CLI: Cài đặt Firebase CLI bằng lệnh npm install -g firebase-tools nếu chưa có.
 Android Studio (hoặc Xcode cho macOS): Để phát triển và chạy ứng dụng trên Android (hoặc iOS).
 
-3. Cấu hình Backend với Firebase
+2. Cấu hình Backend với Firebase
+   
 2.1. Tạo dự án Firebase
 Truy cập Firebase Console.
 Tạo một dự án mới.
