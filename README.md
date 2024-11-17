@@ -51,6 +51,8 @@ Chọn các nền tảng(ví dụ ios và android) sau đó đặt tên giống 
 Kết nối thiết bị Android hoặc iOS của bạn.
 Sử dụng lệnh dưới đây để chạy ứng dụng trên thiết bị:
 flutter run
+
+
 4. Các tính năng chính của ứng dụng
 4.1. Người dùng
 Xem sản phẩm: Duyệt các sản phẩm trong ứng dụng.
