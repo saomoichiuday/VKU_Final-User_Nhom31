@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1097189893918",
+    "project_id": "economic-e3c75",
+    "storage_bucket": "economic-e3c75.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1097189893918:android:0e7818349b91669d030b0f",
+        "android_client_info": {
+          "package_name": "com.example.admin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWNInY_qobenMFQxNzLHI5GhH9zSkfoZY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1097189893918:android:a58f9c96eef95ce7030b0f",
+        "android_client_info": {
+          "package_name": "com.example.user"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWNInY_qobenMFQxNzLHI5GhH9zSkfoZY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
